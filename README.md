@@ -1,7 +1,7 @@
 # Todo-ember-cli
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This file outlines the details of collaborating on this Ember application.
+This repo contains code for the TODOMVC app with ember-cli and ember data
 
 ## Prerequisites
 
